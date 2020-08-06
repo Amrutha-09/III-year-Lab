@@ -11,4 +11,4 @@ i.Character Count ii.Character Stuffing and iii.Bit Stuffing
 4.
 
 ### Output
-![Output](Screenshot (1).png)
+![Output](image.png)
