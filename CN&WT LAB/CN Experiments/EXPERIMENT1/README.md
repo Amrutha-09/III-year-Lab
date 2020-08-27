@@ -1,17 +1,17 @@
-#EXPERIMENT1
+# EXPERIMENT1
 
 
 
-##AIM: To Implement the data link layer framing methods character count
+## AIM: To Implement the data link layer framing methods character count
 
 
-##PROCEDURE
+## PROCEDURE
 1
 2
 3
 
 
-#output
+### output
 
 
 ![output](exp1.png)
