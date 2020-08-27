@@ -14,4 +14,4 @@
 #output
 
 
-![output](EXP1.PNG)
+![output](exp1.png)
