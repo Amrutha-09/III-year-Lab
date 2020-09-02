@@ -29,7 +29,8 @@
 
 ### output
 
-
+### Character Count
+![output](exp1.png)
 
 ### Bit Stuffing
 ![output](Bitstuffing.png)
