@@ -1,18 +1,18 @@
 
-#experiment2
+# Experiment2
 
 
 
-##AIM: To create a register form
+## AIM: To create a register form
  
 
-##PROCEDURE:
+## PROCEDURE:
 1
 2
 3
 
 
-#output:
+# output:
 
 
 ![output](function.PNG)
