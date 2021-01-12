@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<p id="demo"> Everyone welcome to java scipt world</p>
+		<button onclick="descending()">descending</button>
+		<button onmousedown = "ascending()">ascending</button>
+		<button onmouseenter="random()" >random</button>
+	    <button onmouseup="displayminmax()">MaxMin</button>
+		<button onmousemove = "square(10)">Square</button>
+		<button onclick="displayDate()">Date</button>
+	</body>
+	<script>
+	var ages=[10,2,59,32,81,77]
+		function descending()
+		{
+			var sorted_array=ages.sort(function(a, b) {return b-a})
+			console.log(sorted_array)
+		}
+		function ascending()
+		{
+			var sorted_array=ages.sort(function(a, b) {return a-b})
+			console.log(sorted_array)
+		}
+		function random(){
+			var sorted_array=ages.sort(function(a,b){return 0.5-Math.random()})
+			console.log(sorted_array)
+		}
+		function displayminmax()
+		{
+			console.log(Math.max.apply(null,ages))
+			console.log(Math.min.apply(null,ages))
+		}
+		function square(a)
+		{
+			
+			console.log(a*a)
+		}
+		function displayDate()
+		{
+			document.getElementById("demo").innerHTML = Date()
+			console.log(Date())
+		}
+	</script>
+</html>
