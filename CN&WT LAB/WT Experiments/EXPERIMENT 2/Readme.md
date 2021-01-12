@@ -12,8 +12,8 @@
 3
 
 
-# output:
+### output:
 
 
-![output](function.PNG)
+![output](function.png)
 
