@@ -28,5 +28,5 @@ Step 9: Stop
  
  #### data encryption and data decryption
 
-![output](encryption.png)
+![output](Encryption.png)
 
