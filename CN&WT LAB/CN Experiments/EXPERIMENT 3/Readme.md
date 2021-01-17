@@ -23,9 +23,9 @@ By repeating these steps we  conclude  the total  transmissions  required.
 ### Output
  
  #### Sliding Window
-![output](sliding_window.png)
+![output](Sliding_Window_Protocal_Output.png)
 
 
  #### Go-Back-N-ARQ
 
-![output](Goback-n.png)
+![output](Go-back-N_Protocal_Output.png)
