@@ -6,5 +6,5 @@ Write a Ruby script which accept the user's first and last name and print them i
 
 ### Output
 
-![output](exp3.png)
-![output](exp3a.png)
+![output](exp_3.png)
+![output](exp_3a.png)
